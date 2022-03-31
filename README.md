@@ -53,5 +53,5 @@ The system will be able to compare different projects in terms of expenses and i
       1. Servlet technology
   - **Frontend**
      1. JSP(Java Server Pages)
-     2. CSSS
+     2. CSS
   
