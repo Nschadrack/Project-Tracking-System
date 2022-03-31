@@ -44,9 +44,11 @@ The system will be able to compare different projects in terms of expenses and i
   - **Programming languages**
       1. Java
       2. Javascript
-  - **Database**
-      1. Postgres
-      2.  Hibernate
+  - **Database:**
+      - RDBMS:
+          1. Postgres
+      - Database Access Framework:
+          1. Hibernate
   - **Backend**
       1. Servlet technology
   - **Frontend**
