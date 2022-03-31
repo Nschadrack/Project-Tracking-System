@@ -25,3 +25,31 @@ The system will be able to compare different projects in terms of expenses and i
 11. **Comparing different projects basing expenses and income**
 12. **Generating dashboards(graphical representation of some useful information from the system to the user)**
 13. **Adding monthly income for a project when started to work/when in production.**
+14. **Creating account on system**
+
+## Non Functional Requirements
+
+1. **Logged in users are only the ones to access the system data**
+
+
+## Project Tasks Division Group
+
+- **Requirements analysts and testers: ** will analyze the requirements and testing the product throughout the development
+- **Frontend Developers: ** for developing user interfaces
+- **Backend developers: ** Java developers for business logic and behind processing
+- **Marketers: ** who will explain the final product to the market
+- **Project Leader: ** who will control all the activities flow of the project including merging changes into the main working branch of the project at GitHub.
+
+## Technologies
+  - **Programming languages**
+        1. Java
+        2. Javascript
+  - **Database**
+      1. Postgres
+      2.  Hibernate
+  - **Backend**
+      1. Servlet technology
+  - **Frontend**
+     1. JSP(Java Server Pages)
+     2. CSSS
+  
