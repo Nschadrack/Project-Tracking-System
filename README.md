@@ -34,16 +34,16 @@ The system will be able to compare different projects in terms of expenses and i
 
 ## Project Tasks Division Group
 
-- **Requirements analysts and testers: ** will analyze the requirements and testing the product throughout the development
-- **Frontend Developers: ** for developing user interfaces
-- **Backend developers: ** Java developers for business logic and behind processing
-- **Marketers: ** who will explain the final product to the market
-- **Project Leader: ** who will control all the activities flow of the project including merging changes into the main working branch of the project at GitHub.
+- **Requirements analysts and testers:** will analyze the requirements and testing the product throughout the development
+- **Frontend Developers:** for developing user interfaces
+- **Backend developers:** Java developers for business logic and behind processing
+- **Marketers:** who will explain the final product to the market
+- **Project Leader:** who will control all the activities flow of the project including merging changes into the main working branch of the project at GitHub.
 
 ## Technologies
   - **Programming languages**
-        1. Java
-        2. Javascript
+      1. Java
+      2. Javascript
   - **Database**
       1. Postgres
       2.  Hibernate
