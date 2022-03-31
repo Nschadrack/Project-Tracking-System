@@ -1,4 +1,4 @@
-# Project-Tracking-System
+# Projects Tracking System
 
 It is a system which will help the company to track the project by assigning different employees, resources in terms of money  to know how much the project was on spent on.
 
